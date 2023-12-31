@@ -1,4 +1,5 @@
 Completed The Doctor Appointment Slot Booking Application!
+USING MERN STACK
 STEP 1- The User Enters his credentials Name And Email
 STEP 2-Enter OTP and wait for verification
 STEP 3-Select a suitable Time slot from available slot
