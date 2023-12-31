@@ -1,0 +1,98 @@
+
+
+.for_center{
+    margin: auto;
+    width: 53%;
+}
+.forms{
+    margin-left: 18px;
+    font-family: Poppins, sans-serif;
+}
+.fullname{
+    font-size: 14px;
+    color: #c4c4c4;
+    font-family: Poppins, sans-serif;
+}
+.Name{
+    width:80%;
+}
+.Name input{
+    font-size: 14px;
+    padding: -8px;
+    display: block;
+    width: 100%;
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #c4c4c4;
+    margin:auto;
+}
+
+.Name input:focus{
+  outline:none;
+}
+.Name h6{
+    margin:auto;
+    font-size: 80%;
+    font-weight: 400;
+    margin-bottom: 22px;
+}
+.birthday{
+    font-size: 14px;
+    color: #c4c4c4;
+    font-family: Poppins, sans-serif;
+    margin-top:50px;
+}
+.dateinput{
+    font-size: 14px;
+    padding: -8px;
+    display: block;
+    width: 100%;
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #c4c4c4;
+    margin:auto;
+}
+
+.dateinput:focus{
+    outline:none;
+  }
+.gender_div{
+    width:40%
+}
+.gender{
+    font-size: 14px;
+    color: #c4c4c4;
+    font-family: Poppins, sans-serif;
+    
+}
+.gender input{
+    font-size: 5px;
+}
+.options{
+    margin-right: 10px;
+}
+.continue_yes{
+    background: #0176c4;
+    border: 1px solid transparent;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    float: right;
+    font-size: small;
+    margin-top: 24px;
+    font-family:Poppins, sans-serif;
+    margin-right: 20px;
+    color:#fff;
+    height: 20%;
+    margin-top: 129px;
+    padding: 6px 10px;
+}
+.continue_yes:hover{
+    opacity: 0.9;
+}

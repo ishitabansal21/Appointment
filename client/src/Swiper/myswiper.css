@@ -1,0 +1,135 @@
+.dates{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+
+
+.swipe1,.swipe2{
+    margin:auto;
+    font-family:Poppins, sans-serif;
+    
+}
+.swipe1{
+    font-size: 14px;
+    margin-bottom: 10px;
+   font-weight: bolder;
+}
+.swipe2{
+    font-size: 13px;
+    font-weight: 500;
+    border-bottom: 3px solid #64bc6e;
+}
+/* .dates:active,.dates:focus-visible{
+    border-bottom: 3px solid #64bc6e;
+} */
+:root {
+    --swiper-navigation-size: 18px;
+}
+
+:root {
+    --swiper-theme-color: black;
+}
+.swiper-slide{
+    width: 273.667px !important;
+    margin-right: 64px !important;
+}
+.green{
+    color: #64bc6e;
+}
+.swiper_head{
+    
+   
+    margin: auto;
+}
+.line{
+    border-bottom: 1px solid #e5e5e5;
+   
+}
+
+.noslot,.slots{
+    cursor: pointer;
+    
+}
+.noslot-heading{
+    text-align: center;
+    font-family:Poppins, sans-serif;
+    margin-top: 34px;
+    font-weight: 600;
+}
+
+.continue_no_swipe{
+    padding: 0.375rem 0.75rem;
+    border: 1px solid transparent;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    float: right;
+    font-size: small;
+    margin-top: 23px;
+    color: #fff;
+    background: #ccc!important;
+    font-family:Poppins, sans-serif;
+    margin-right: 20px;
+    cursor:pointer;
+    
+}
+
+.timee{
+    padding-right: 5px;
+    padding-left: 5px;
+    background: #fff;
+    color: #000;
+    width: 100%;
+    font-size: 12px;
+    padding: 10px 0;
+    border: 1px solid #d0d0d0;
+    border-radius: 5px;
+    width:32%;
+    margin-right: 10px;
+    margin-bottom: 12px;
+
+}
+.timee_click{
+    padding-right: 5px;
+    padding-left: 5px;
+    background: #64bc6e;
+    color: #fff;
+    width: 100%;
+    font-size: 12px;
+    padding: 10px 0;
+    border: 1px solid #d0d0d0;
+    border-radius: 5px;
+    width:32%;
+    margin-right: 10px;
+    margin-bottom: 12px;
+
+}
+.time_slots{
+    margin-left: 18px;
+    margin-top: 27px;
+}
+.continue_yes_swipe{
+    background: #0176c4;
+    padding: 0.375rem 0.75rem;
+    border: 1px solid transparent;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    float: right;
+    font-size: small;
+    margin-top: 24px;
+    font-family:Poppins, sans-serif;
+    margin-right: 20px;
+    color:#fff;
+    cursor:pointer;
+}

@@ -1,0 +1,139 @@
+.for_center_info{
+    width: 53%;
+    margin:auto;
+    /* background: red; */
+}
+.header_info{
+    
+    background-color: white;
+    display: flex;
+    border-bottom: 1px solid #e5e5e5;
+    margin: auto;
+}
+.doc_div_info{
+    padding: 40px;
+}
+.docimage_info{
+    height: 75px;
+    width: 75px;
+    min-height: 75px;
+    min-width: 75px;
+    background-size: cover;
+    background-position: center;
+    max-height: 75px;
+    max-width: 75px;
+    /* padding: 42%; */
+    border-radius: 50%;
+    border: 4px solid #64bc6e;
+    
+}
+
+.viewprofile_info{
+    border: 1px solid #0176c4;
+    border-radius: 5px;
+    background: #fff;
+    color: #0176c4;
+    font-weight: 1000;
+    font-size: 13px;
+    width: 100px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+    
+    
+}
+.viewprofile_info:hover{
+    text-decoration: underline;
+}
+
+.doc_name_info{
+    font-size: 19px;
+    font-family: Poppins, sans-serif;
+    margin: auto;
+    
+}
+.doc_type_info{
+    font-size: 12px;
+    font-family: Poppins, sans-serif;
+    margin-bottom: 8px;
+    
+}
+.info_div_info{
+    display:flex;
+    align-items: center;
+}
+.summary{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    margin-left: 18px;
+}
+
+.for_flex{
+    display: flex;
+}
+.space{
+    justify-content: space-between;
+}
+.clinic-info h4{
+    font-size: 14px;
+    font-family: Poppins, sans-serif;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.fees{
+    font-family: Poppins, sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    color: #64bc6e;
+    margin: auto;
+}
+.pay{
+    font-family: Poppins, sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    color: #715ac4;
+    margin: auto;
+}
+.house{
+    width: 35px;
+    height: 35px;
+    margin-right: 14px;
+    margin-top: 10px;
+    margin-left: 21px;
+}
+.time{
+    margin: auto;
+    margin-top: -6px;
+    font-size: 14px;
+    font-family: Poppins, sans-serif;
+}
+.date{
+    margin: auto;
+    font-size: 14px;
+    font-family: Poppins, sans-serif;
+    margin-top: -25px;
+}
+.time img{
+    margin-right: 12px;
+}
+.date img{
+    margin-right: 12px;
+}
+.timedate{
+    margin-left: 90px;
+}
+.changedate h4{
+    margin: auto;
+    border-bottom: 1px solid #0176c4;
+    cursor: pointer;
+    font-weight: 800;
+}
+.changedate{
+    font-size: 12px;
+    font-family: Poppins, sans-serif;
+    color: #0176c4;
+    margin-right: 45px;
+    margin-top: 10px;
+
+}
