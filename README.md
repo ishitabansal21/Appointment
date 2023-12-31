@@ -1,19 +1,31 @@
 Completed The Doctor Appointment Slot Booking Application!
 USING MERN STACK
+
+
 STEP 1- The User Enters his credentials Name And Email
+
 STEP 2-Enter OTP and wait for verification
+
 STEP 3-Select a suitable Time slot from available slot
+
 STEP 4-Enter Details and confirm Appointment
+
 STEP 5-Confirmation page along with Directions
 
+
 To Run My Application:
+
 1.Make a folder and store both client(PORT:3000) and server(PORT:8000) folder
+
 2.cd client
   npm i
+  
 3.cd server
   npm i
+  
 4.cd client
   npm start
+  
 5.cd server 
   npm start
 
